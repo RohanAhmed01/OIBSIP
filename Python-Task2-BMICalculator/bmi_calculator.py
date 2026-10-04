@@ -29,7 +29,7 @@ def calculate_bmi():
 
         # Update UI
         result_label.config(text=f"{bmi:.1f}", fg=color)
-        category_label.config(text=category, fg=color)
+        category_label.config(text=category, fg=color) 
 
     except ValueError:
         messagebox.showerror("Input Error", "Please enter valid numeric values!")

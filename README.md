@@ -19,4 +19,4 @@ This repository is structured into separate folders for each task. Each project 
 * **APIs & Libraries:** `requests`, `json`, `random`, `string`
 
 ---
-*Developed by Ahmed as part of the OIBSIP program.*
+*Developed by Rohan Ahmed as part of the OIBSIP program.*

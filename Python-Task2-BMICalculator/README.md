@@ -8,9 +8,4 @@ A simple GUI-based Body Mass Index (BMI) calculator built using Python and Tkint
 - Simple, dark-themed graphical interface.
 - Includes basic error handling for invalid inputs.
 
-## How to Run
-1. Ensure Python 3 is installed on your system.
-2. Open your terminal or command prompt.
-3. Run the script:
-   ```bash
-   python main.py
+ 

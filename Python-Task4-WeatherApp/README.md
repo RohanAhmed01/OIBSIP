@@ -8,7 +8,4 @@ A simple GUI-based Weather application built using Python and Tkinter for the Oa
 - Built using Python's `requests` library to handle API calls.
 - Includes basic error handling for invalid city names or network issues.
 
-## Prerequisites
-You need to install the `requests` library before running the app. Run this command in your terminal:
-```bash
-pip install requests 
+ 
